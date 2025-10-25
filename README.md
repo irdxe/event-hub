@@ -1,6 +1,6 @@
 # event-hub
 
-An event hub page created with semantic while learining the basics of HTML.
+An event hub page created with semantic while learning the basics of HTML.
 
 ## Demo
 
