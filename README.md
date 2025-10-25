@@ -28,6 +28,8 @@ This project was built to practice semantic HTML and basic structure based on fr
 
 ## Screenshot
 
+![Home page](screenshot-event-hub-page.png)
+
 ## Credits
 
 Based on freeCodeCamp exercises https://www.freecodecamp.org/
