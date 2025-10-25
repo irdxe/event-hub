@@ -1,4 +1,4 @@
-# event-hub
+# Event-hub
 
 An event hub page created with semantic while learning the basics of HTML.
 
